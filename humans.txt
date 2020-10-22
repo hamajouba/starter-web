@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Nawel Mohamed   hamajouba@gmail.com <twitter>
 
 # THANKS
 
